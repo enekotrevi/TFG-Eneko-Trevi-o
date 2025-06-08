@@ -1,2 +1,2 @@
-# TFG-Eneko-Trevi-o
+# TFG-Eneko-Treviño
 Análisis de Componentes Principales No-Lineales de la marcha en mujeres con Osteoartritis: Discriminando los pacientes que requieren remplazo de rodilla total
